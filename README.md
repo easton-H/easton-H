@@ -1,7 +1,6 @@
 -  Hi, I’m @easton-H
 -  I’m interested in javascript
 -  I’m currently learning node.js
--  I’m looking to collaborate on ...
 -  my email is ehain0330@gmail.com 
 
 <!---
